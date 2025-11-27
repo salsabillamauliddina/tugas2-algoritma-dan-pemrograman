@@ -1,5 +1,8 @@
 # tugas2-algoritma-dan-pemrograman
 
+### clone code
+git clone *link*
+
 #### compile file 
 javac *file name*
 ```
